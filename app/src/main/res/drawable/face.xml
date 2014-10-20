@@ -1,0 +1,23 @@
+<!-- Based on the 9 o'clock icon by christoph robausch from The Noun Project -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="200dp"
+    android:width="200dp"
+    android:viewportHeight="100"
+    android:viewportWidth="100" >
+  <path
+      android:fillColor="@color/yellow"
+      android:pathData="@string/path_circle"/>
+  <path
+      android:fillColor="@android:color/black"
+      android:pathData="@string/path_face_left_eye"/>
+  <path
+      android:fillColor="@android:color/black"
+      android:pathData="@string/path_face_right_eye"/>
+  <path
+      android:name="mouth"
+      android:strokeColor="@android:color/black"
+      android:strokeWidth="@integer/stroke_width"
+      android:strokeLineCap="round"
+      android:pathData="@string/path_face_mouth_sad"/>
+</vector>

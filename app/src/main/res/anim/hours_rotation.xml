@@ -1,0 +1,7 @@
+<objectAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="8000"
+    android:propertyName="rotation"
+    android:valueFrom="0"
+    android:valueTo="240"
+    android:interpolator="@android:anim/linear_interpolator"/>

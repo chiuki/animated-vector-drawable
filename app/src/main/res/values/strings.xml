@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Animated Vector Drawable</string>
+
+  <string name="example_from_documentation">Example from documentation</string>
+  <string name="rotation_only">Rotation only</string>
+  <string name="path_morph_only">Path morph only</string>
+  <string name="animate">Animate</string>
+
+  <string name="clock">Clock</string>
+  <string name="smiling_face">Smiling face</string>
+
+  <string name="path_circle">
+    M 50,50
+    m -48,0
+    a 48,48 0 1,0 96,0
+    a 48,48 0 1,0 -96,0
+  </string>
+  <string name="path_face_left_eye">
+    M 35,40
+    m -7,0
+    a 7,7 0 1,0 14,0
+    a 7,7 0 1,0 -14,0
+  </string>
+  <string name="path_face_right_eye">
+    M 65,40
+    m -7,0
+    a 7,7 0 1,0 14,0
+    a 7,7 0 1,0 -14,0
+  </string>
+  <string name="path_face_mouth_sad">
+    M 30,75
+    Q 50,55 70,75
+  </string>
+  <string name="path_face_mouth_happy">
+    M 30,65
+    Q 50,85 70,65
+  </string>
+</resources>
