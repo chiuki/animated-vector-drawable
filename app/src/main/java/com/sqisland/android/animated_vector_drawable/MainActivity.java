@@ -18,7 +18,8 @@ public class MainActivity extends ListActivity {
     final List<Demo> demos = Arrays.asList(
         new Demo(this, ExampleActivity.class, R.string.example_from_documentation),
         new Demo(this, RotateActivity.class, R.string.clock),
-        new Demo(this, PathMorphActivity.class, R.string.smiling_face)
+        new Demo(this, PathMorphActivity.class, R.string.smiling_face),
+        new Demo(this, FillInHeartActivity.class, R.string.fill_in_heart)
     );
     ArrayAdapter<Demo> adapter = new ArrayAdapter<Demo>(
         this,

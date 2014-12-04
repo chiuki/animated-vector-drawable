@@ -8,9 +8,13 @@
   <string name="animate">Animate</string>
 
   <string name="clock">Clock</string>
+
   <string name="smiling_face">Smiling face</string>
 
-  <string name="path_circle">
+  <string name="fill_in_heart">Fill in heart</string>
+  <string name="love_it">Love it</string>
+
+<string name="path_circle">
     M 50,50
     m -48,0
     a 48,48 0 1,0 96,0
@@ -35,5 +39,8 @@
   <string name="path_face_mouth_happy">
     M 30,65
     Q 50,85 70,65
+  </string>
+  <string name="heart">
+    M25.119,2.564c12.434,0.023,18.68,5.892,24.88,17.612  c6.2-11.721,12.446-17.589,24.877-17.612c13.81-0.025,25.035,10.575,25.061,23.66c0.033,23.708-24.952,47.46-49.938,71.212  C25.016,73.685,0.03,49.932,0.064,26.224C0.085,13.14,11.309,2.539,25.119,2.564z
   </string>
 </resources>

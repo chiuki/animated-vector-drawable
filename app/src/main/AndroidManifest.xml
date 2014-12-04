@@ -27,6 +27,10 @@
           android:name=".PathMorphActivity"
           android:label="@string/smiling_face"
           android:parentActivityName=".MainActivity" />
+      <activity
+          android:name=".FillInHeartActivity"
+          android:label="@string/fill_in_heart"
+          android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>

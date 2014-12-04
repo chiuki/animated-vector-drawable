@@ -2,4 +2,6 @@
   <color name="green">#a3c639</color>
   <color name="dark_green">#85a71d</color>
   <color name="yellow">#ff0</color>
+  <color name="gray">#ccc</color>
+  <color name="pink">#e91e63</color>
 </resources>
